@@ -29,3 +29,6 @@ A menu-driven Java console application that converts temperatures between Celsiu
 - Modular program design
 - User interaction handling
 - Clean console application structure
+
+## Screenshot
+![Output](Screenshots/output.png)
